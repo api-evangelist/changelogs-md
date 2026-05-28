@@ -1,0 +1,32 @@
+aid: changelogs-md
+name: Changelogs.md
+description: "Structured changelog metadata from open source projects"
+url: https://changelogs.md
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Changelogs.md
+    description: "Structured changelog metadata from open source projects"
+    humanURL: https://changelogs.md
+    baseURL: https://changelogs.md
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://changelogs.md
+common:
+  - type: Website
+    url: https://changelogs.md
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
