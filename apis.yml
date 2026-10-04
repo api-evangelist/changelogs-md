@@ -41,7 +41,6 @@ apis:
   - name: Changelogs.md
     description: "Structured changelog metadata from open source projects"
     humanURL: https://changelogs.md
-    baseURL: https://changelogs.md
     tags:
       - Development
     properties:
